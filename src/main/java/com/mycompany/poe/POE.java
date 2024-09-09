@@ -24,6 +24,8 @@ public class POE {
                    + "contains an underscore and the length is no more than 5 characters long.");
        }
        
+       //gdg
+       
        //this method returns a string charcter in a particular position
       /* char results = hello.charAt(17);
        System.out.println(results);*/
